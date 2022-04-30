@@ -83,7 +83,7 @@ export default function App() {
   <div>
         <section className="section-center">
           <article className="gift-img">
-            <img src="" alt="gift" />
+            <img src="./public/image.jpg" alt="gift" />
           </article>
           <article className="gift-info">
             <h3>Արթուրի ու Տիրուհու Հարսանիք</h3>
