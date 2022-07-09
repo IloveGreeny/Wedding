@@ -67,12 +67,12 @@ export default function App() {
   <div>
         <section className="section-center">
           <article className="gift-img">
-            <img src="./public/image.jpg" alt="gift" />
+            <img src="//image" alt="wedding-jpg" />
           </article>
           <article className="gift-info">
-            <h3>Արթուրի ու Տիրուհու Հարսանիք</h3>
+            <h3>wedding</h3>
             <h4 className="giveaway">
-              Արթուրի ու Տիրուհու Հարսանիք Սկսվում է Ապրիլի 29-ին
+              wedding
             </h4>
             <p>
             </p>
