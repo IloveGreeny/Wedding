@@ -25,7 +25,7 @@ export default function App() {
   month = months[month];
   const weekday = weekdays[futureDate.getDay()];
   const date = futureDate.getDate();
-  giveaway.textContent = `Արթուրի ու Տիրուհու Հարսանիք Սկսվում է  ${weekday}, ${date} ${month} ${year} ${hours}:${minutes}am`;
+  giveaway.textContent =  // wedding date;
 
   const futureTime = futureDate.getTime();
   function getRemaindingTime() {
