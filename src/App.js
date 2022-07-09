@@ -1,7 +1,7 @@
 import "./App.css"
 
 export default function App() {
-  const months = ["Հունվար",
+  const months = [
 //
   ];
   const weekdays = [
