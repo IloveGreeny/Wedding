@@ -2,26 +2,10 @@ import "./App.css"
 
 export default function App() {
   const months = ["Հունվար",
-    "Փետրվար",
-    "Մարտ",
-    "Ապրիլ",
-    "մայիս",
-    "Հունիս",
-    "հուլիս",
-    "Օգոստոս",
-    "սեպտեմբեր",
-    "Հոկտեմբեր",
-    "Նոյեմբեր",
-    "Դեկտեմբեր"
+//
   ];
   const weekdays = [
-    "Կիրակի",
-    "Երկուշաբթի",
-    "Երեքշաբթի",
-    "Չորեքշաբթի",
-    "Հինգշաբթի",
-    "Ուրբաթ",
-    "Շաբաթ",
+//
   ];
   const giveaway = document.querySelector('.giveaway');
   const deadline = document.querySelector('.deadline');
